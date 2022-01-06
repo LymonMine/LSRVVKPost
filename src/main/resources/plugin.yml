@@ -1,0 +1,9 @@
+name: LSRVVKPost
+version: 1.1
+main: ru.lymonmine.lsrvvkpost.main
+author: LymonMine
+commands:
+  latpost:
+    description: _
+  fakepost:
+    description: _
